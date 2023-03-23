@@ -1,4 +1,4 @@
-package StarCraft;
+package StarCraft2;
 
 class AirUnit extends Unit {
 	public AirUnit(int hp, String name) {

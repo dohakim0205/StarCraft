@@ -1,4 +1,4 @@
-package StarCraft;
+package StarCraft2;
 
 import java.util.Random;
 

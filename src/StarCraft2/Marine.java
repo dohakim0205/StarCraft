@@ -1,8 +1,8 @@
-package StarCraft;
+package StarCraft2;
 
-class Tank extends GroundUnit implements Repairable, Damageable {
-	public Tank() {
-		super(120, "≈ ≈©");
+class Marine extends GroundUnit implements Damageable {
+	public Marine() {
+		super(100, "∏∂∏∞");
 	}
 	
 	public void damaged(int damage) {

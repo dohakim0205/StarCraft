@@ -1,4 +1,4 @@
-package StarCraft;
+package StarCraft2;
 
 class SCV extends GroundUnit implements Repairable, Damageable {
 	public SCV() {

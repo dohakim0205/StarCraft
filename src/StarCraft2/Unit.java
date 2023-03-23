@@ -1,4 +1,4 @@
-package StarCraft;
+package StarCraft2;
 
 class Unit {
 	public final int MAX_HP;

@@ -1,4 +1,4 @@
-package StarCraft;
+package StarCraft2;
 
 class DropShip extends AirUnit implements Repairable, Damageable {
 	public DropShip() {

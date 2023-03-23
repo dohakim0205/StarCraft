@@ -1,4 +1,4 @@
-package StarCraft;
+package StarCraft2;
 
 class GroundUnit extends Unit {
 	public GroundUnit(int hp, String name) {
