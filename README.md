@@ -1,0 +1,2 @@
+# starcraft
+Java mini project
